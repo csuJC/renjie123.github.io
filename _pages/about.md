@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Renjie Gu - Passionate Computer Science Enthusiast 💻🚀"
+title: "Renjie Gu - Passionate Computer Science Enthusiast 💻"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-👋 Welcome to my personal academic website! I am Renjie Gu, from Jiangyin City, Jiangsu Province, currently an undergraduate student majoring in Computer Science and Technology, passionate about the application of computer technology and LLM! 🔥
+👋 Welcome to my personal academic website! I am Renjie Gu, from Jiangyin City, Jiangsu Province, currently an undergraduate student majoring in Computer Science and Technology, passionate about the application of computer technology and LLM! 🔥 
 
 Education & Experience 🎓
 ======
@@ -39,7 +39,7 @@ Awards & Honors 🏆
 - **Second Prize in the National College English Competition** 🥈  
 - **Yangguang Excellent Student Scholarship** (awarded to only 1% of students)
 
-Projects 💡
+Selected Projects 💡
 ======
 - **Job Recommendation and Skill Assessment System Based on Knowledge Graph**  
   Responsible for researching and developing recommendation algorithms, implemented resume entity recognition and knowledge graph-based content recommendation algorithms using Python, PyTorch, and Flask, and optimized suggestions by deploying ChatGLM.
