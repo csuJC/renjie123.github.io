@@ -18,7 +18,7 @@ Education & Experience 🎓
 
 **SYNC (Beijing, China)**  
 *LLM and iOS Development Intern*  
-*07/2022 - 08/2024*  
+*07/2024 - 08/2024*  
 During my internship at this AI-focused startup, I was mainly responsible for iOS application development and optimizing specific chat scenarios using LLM agents. My work also included enhancing the humor and empathy of LLMs by fine-tuning models and generating synthetic data to improve model performance.
 
 Publications & Research 🧠
