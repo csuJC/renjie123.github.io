@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👋 Welcome to my personal academic website! I am Renjie Gu, from Jiangyin City, Jiangsu Province, currently an undergraduate student majoring in Computer Science and Technology, passionate about the application of computer technology and LLM! 🔥 
+👋 Welcome to my personal academic website! I am Renjie Gu, from Jiangyin City, Jiangsu Province, currently an undergraduate student majoring in Computer Science and Technology at Central South University, passionate about the application of computer technology and LLM! What's more, I'm interested in trustworthy AI and am currently working as a research assistant at the State Key Laboratory of Blockchain and Data Security, Zhejiang University, China, collaborating with [Prof. Yiming Li](https://liyiming.tech/) and [Boheng Li](https://antigonerandy.github.io/) from NTU. 🔥
 
 Education & Experience 🎓
 ======
