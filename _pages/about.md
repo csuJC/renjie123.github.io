@@ -17,6 +17,7 @@ Education & Experience 🎓
 *09/2022 - Present*
 
 **Nanyang Technological University, Singapore** 
+
 *Research Assistant*
 *12/2024 - Present*
 *My current research focuses on the defense and immunization strategies for diffusion model.*
