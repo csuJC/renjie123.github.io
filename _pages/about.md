@@ -19,7 +19,8 @@ Education & Experience 🎓
 **Nanyang Technological University, Singapore** 
 *Research Assistant*
 *12/2024 - Present*
-*My current research focuses on the defense and immunization strategies for diffusion model. I am in the process of preparing a submission for ACM CCS 2025.*
+*My current research focuses on the defense and immunization strategies for diffusion model.*
+*I am in the process of preparing a submission for ACM CCS 2025.*
 
 **SYNC (Beijing, China)**  
 *LLM and iOS Development Intern*  
