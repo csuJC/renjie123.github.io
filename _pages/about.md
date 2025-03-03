@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👋 Welcome to my personal academic website! I am Renjie Gu, from Jiangyin City, Jiangsu Province, currently an undergraduate student majoring in Computer Science and Technology at Central South University, passionate about the application of computer technology and LLM! What's more, I'm interested in trustworthy AI and am currently working as a research assistant at the State Key Laboratory of Blockchain and Data Security, Zhejiang University, China, collaborating with [Prof. Yiming Li](https://liyiming.tech/) and [Boheng Li](https://antigonerandy.github.io/) from NTU. 🔥
+👋 Welcome to my personal academic website! I am Renjie Gu, from Jiangyin City, Jiangsu Province, currently an undergraduate student majoring in Computer Science and Technology at Central South University, passionate about the application of computer technology! What's more, I'm interested in trustworthy AI,T2I and LLM/MLLM.I am currently working as a research assistant at the Nanyang Technological University, Singapore, collaborating with [Prof. Yiming Li](https://liyiming.tech/) and [Boheng Li](https://antigonerandy.github.io/). 🔥
 
 Education & Experience 🎓
 ======
@@ -16,13 +16,20 @@ Education & Experience 🎓
 *GPA: 90.87/100 (3.92/4.0)*  
 *09/2022 - Present*
 
+**Nanyang Technological University, Singapore** 
+*Research Assistant*
+*12/2024 - Present*
+*	My current research focuses on the defense and immunization strategies for diffusion model. I am in the process of preparing a submission for ACM CCS 2025.*
+
 **SYNC (Beijing, China)**  
 *LLM and iOS Development Intern*  
-*07/2024 - 08/2024*  
+*07/2024 - 09/2024*  
 During my internship at this AI-focused startup, I was mainly responsible for iOS application development and optimizing specific chat scenarios using LLM agents. My work also included enhancing the humor and empathy of LLMs by fine-tuning models and generating synthetic data to improve model performance.
 
 Publications & Research 🧠
 ======
+- **It’s a secret for now, because I’m submitting to ACL 2025.😊**
+  *As a co-first author, I developed a fine-grained hallucination benchmark for a multimodal large language model as a judge.*
 - **Course-Correction: Safety Alignment Using Synthetic Preferences**, co-authored with Xu R, Cai Y, Zhou Z, Gu R  
   *Published in arXiv:2407.16637, 2024*  
   *EMNLP 2024 Industry Track*  
@@ -37,7 +44,7 @@ Awards & Honors 🏆
 - **First Prize in the Central South Region of the China Computer Design Competition** 🥇  
 - **Third Prize in the National Service Innovation Competition** 🥉  
 - **Second Prize in the National College English Competition** 🥈  
-- **Yangguang Excellent Student Scholarship** (awarded to only 1% of students)
+- **Yangguang Excellent Student Scholarship** (awarded to top 1% of students)
 
 Selected Projects 💡
 ======
