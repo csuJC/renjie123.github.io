@@ -16,9 +16,13 @@ Education & Experience 🎓
 *GPA: 90.87/100 (3.92/4.0)*  
 *09/2022 - Present*
 
-**Nanyang Technological University, Singapore** 
+**Nanyang Technological University, Singapore**
+
 *Research Assistant*
+
 *12/2024 - Present*
+
+*My current research focuses on the defense and immunization strategies for diffusion model.I am in the process of preparing a submission for ACM CCS 2025.*
 
 
 **SYNC (Beijing, China)**  
