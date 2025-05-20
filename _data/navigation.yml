@@ -5,14 +5,15 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
   # - title: "Portfolio"
   #   url: /portfolio/
 
   - title: "CV"
-    url: /files/Renjie-Gu.pdf
+    url: files/Renjie-Gu_webpage.pdf
+    
     
   # - title: "Guide"
   #   url: /markdown/

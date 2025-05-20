@@ -32,9 +32,10 @@ During my internship at this AI-focused startup, I was mainly responsible for iO
 
 Publications & Research 🧠
 ======
-- **It’s a secret for now, because I’m submitting to ACL 2025.😊**
-  *As a co-first author, I developed a fine-grained hallucination benchmark for a multimodal large language model as a judge.*
-- **Course-Correction: Safety Alignment Using Synthetic Preferences**, co-authored with Xu R, Cai Y, Zhou Z, Gu R  
+- **MHALO: Evaluating MLLMs as Fine-grained Hallucination Detectors**, Equal first contribution,co-authored with Yishuo Cai
+  *ACL 2025 Findings* 
+  *We developed a fine-grained hallucination benchmark for a multimodal large language model as a judge.*
+- **Course-Correction: Safety Alignment Using Synthetic Preferences**, co-authored with Rongwu xu,Yishuo Cai 
   *Published in arXiv:2407.16637, 2024*  
   *EMNLP 2024 Industry Track*  
   This research provides in-depth insights into AI safety and model alignment, highlighting the concept of course-correction and proposing the C-Syn benchmark and methods for course-correction LLM fine-tuning. I was mainly responsible for the experimental part of the team, including dataset synthesis and model performance testing.
