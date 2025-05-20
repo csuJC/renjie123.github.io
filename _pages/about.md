@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👋 Welcome to my personal academic website! I am Renjie Gu, from Jiangyin City, Jiangsu Province, currently an undergraduate student majoring in Computer Science and Technology at Central South University, passionate about the application of computer technology! What's more, I'm interested in trustworthy AI,T2I and LLM/MLLM.I am currently working as a research assistant at the Nanyang Technological University, Singapore, collaborating with [Prof. Yiming Li](https://liyiming.tech/) and [Boheng Li](https://antigonerandy.github.io/). 🔥
+👋 Welcome to my personal academic website! I am Renjie Gu, from Jiangyin City, Jiangsu Province, currently an undergraduate student majoring in Computer Science and Technology at Central South University, passionate about the application of computer technology! What's more, I'm interested in **trustworthy AI,T2I and LLM/MLLM**.I am currently working as a research assistant at the Nanyang Technological University, Singapore, collaborating with [Prof. Yiming Li](https://liyiming.tech/) and [Boheng Li](https://antigonerandy.github.io/). 🔥
 
 Education & Experience 🎓
 ======
@@ -17,38 +17,32 @@ Education & Experience 🎓
 *09/2022 - Present*
 
 **Nanyang Technological University, Singapore**
-
 *Research Assistant*
-
 *12/2024 - Present*
-
-*My current research focuses on the defense and immunization strategies for diffusion model.I am in the process of preparing a submission for ACM CCS 2025.*
+*My time here is spent studing building resilient unlearning for diffusion models.I'm also interested in other AI safety topics and general mllm and diffusion model for image generation.
 
 
 **SYNC (Beijing, China)**  
 *LLM and iOS Development Intern*  
 *07/2024 - 09/2024*  
-During my internship at this AI-focused startup, I was mainly responsible for iOS application development and optimizing specific chat scenarios using LLM agents. My work also included enhancing the humor and empathy of LLMs by fine-tuning models and generating synthetic data to improve model performance.
+During my internship at this AI-focused startup, I was mainly responsible for optimizing specific chat scenarios using LLM agents. My work also included enhancing the humor and empathy of LLMs by fine-tuning models and generating synthetic data to improve model performance.
 
 Publications & Research 🧠
 ======
-- **MHALO: Evaluating MLLMs as Fine-grained Hallucination Detectors**, Equal first contribution,co-authored with Yishuo Cai
+- [**MHALO: Evaluating MLLMs as Fine-grained Hallucination Detectors**](https://openreview.net/pdf?id=t1W8txNm7K), Equal first contribution, co-authored with Yishuo Cai
   *ACL 2025 Findings* 
   *We developed a fine-grained hallucination benchmark for a multimodal large language model as a judge.*
-- **Course-Correction: Safety Alignment Using Synthetic Preferences**, co-authored with Rongwu xu,Yishuo Cai 
-  *Published in arXiv:2407.16637, 2024*  
+- [**Course-Correction: Safety Alignment Using Synthetic Preferences**](https://arxiv.org/pdf/2407.16637), co-authored with Rongwu xu,Yishuo Cai 
   *EMNLP 2024 Industry Track*  
   This research provides in-depth insights into AI safety and model alignment, highlighting the concept of course-correction and proposing the C-Syn benchmark and methods for course-correction LLM fine-tuning. I was mainly responsible for the experimental part of the team, including dataset synthesis and model performance testing.
 
 - During my internship, I conducted in-depth research on the performance of AI agents and LLMs in practical applications, especially on how to enhance the empathy and humor of LLMs and optimize model performance through synthetic data generation.
 
-- I am currently collaborating with Feijiang Han from Upenn to explore the role of cognitive levels in reasoning within LLMs.
-
 Awards & Honors 🏆
 ======
-- **First Prize in the Central South Region of the China Computer Design Competition** 🥇  
-- **Third Prize in the National Service Innovation Competition** 🥉  
-- **Second Prize in the National College English Competition** 🥈  
+- **First Prize in the Central South Region of the China Computer Design Competition🥇 **  
+- **Third Prize in the National Service Innovation Competition🥉**   
+- **Second Prize in the National College English Competition🥈**  
 - **Yangguang Excellent Student Scholarship** (awarded to top 1% of students)
 
 Selected Projects 💡
