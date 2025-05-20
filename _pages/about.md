@@ -28,7 +28,7 @@ Publications & Research 🧠
 ======
 - **A secret now becaused it's on submiited to Nips 2025**, Second author, collabrated with Boheng Li
   *I extensively studied methods for defending LLMs and diffusion models against harmful fine-tuning and methods for efficient Bilevel Optimization.*
-	*I finished the experiment codes.*
+  *I finished the experiment codes.*
 - [**MHALO: Evaluating MLLMs as Fine-grained Hallucination Detectors**](https://openreview.net/pdf?id=t1W8txNm7K), Equal first contribution, co-authored with Yishuo Cai
   **ACL 2025 Findings**
   *We developed a fine-grained hallucination benchmark for a multimodal large language model as a judge.*

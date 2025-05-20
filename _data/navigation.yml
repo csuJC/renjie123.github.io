@@ -12,7 +12,7 @@ main:
   #   url: /portfolio/
 
   - title: "CV"
-    url: files/Renjie-Gu_webpage.pdf
+    url: /files/Renjie-Gu_webpage.pdf
     
     
   # - title: "Guide"
