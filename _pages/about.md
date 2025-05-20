@@ -19,16 +19,19 @@ Education & Experience 🎓
 **Nanyang Technological University, Singapore**
 *Research Assistant*
 *12/2024 - Present*
-*My time here is spent studing building resilient unlearning for diffusion models.I'm also interested in other AI safety topics and general mllm and diffusion model for image generation.
+My time here is spent studing building resilient unlearning for diffusion models.I'm also interested in other AI safety topics and general mllm and diffusion model for image generation.
 
 
-**SYNC (Beijing, China)**  
+**SYNC (Beijing, China)(AI Startup)**  
 *LLM and iOS Development Intern*  
 *07/2024 - 09/2024*  
-During my internship at this AI-focused startup, I was mainly responsible for optimizing specific chat scenarios using LLM agents. My work also included enhancing the humor and empathy of LLMs by fine-tuning models and generating synthetic data to improve model performance.
+I focus on optimizing specific chat scenarios using LLM agents. My work also included enhancing the humor and empathy of LLMs by fine-tuning models.
 
 Publications & Research 🧠
 ======
+- **A secret now becaused it's on submiited to Nips 2025**, Second author, collabrated with Boheng Li
+  *I extensively studied methods for defending LLMs and diffusion models against harmful fine-tuning and methods for efficient Bilevel Optimization.*
+	*I finished the experiment codes.*
 - [**MHALO: Evaluating MLLMs as Fine-grained Hallucination Detectors**](https://openreview.net/pdf?id=t1W8txNm7K), Equal first contribution, co-authored with Yishuo Cai
   *ACL 2025 Findings* 
   *We developed a fine-grained hallucination benchmark for a multimodal large language model as a judge.*
