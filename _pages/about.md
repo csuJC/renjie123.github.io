@@ -15,21 +15,18 @@ I used to work as a research assistant at the Nanyang Technological University, 
 
 Publications & Research 🧠
 ======
-- [**Unlearners Can Lie: Evaluating and improving “Honesty” in LLM Unlearning**](https://openreview.net/pdf?id=fhrOSzieCS), First contribution
-  **ACL 2026 on submission & NeurIPS 2025 Lock-LLM Workshop accepted**
+- [**Unlearners Can Lie: Evaluating and improving “Honesty” in LLM Unlearning**](https://openreview.net/pdf?id=fhrOSzieCS)
+  First contribution,**ACL 2026 on submission & NeurIPS 2025 Lock-LLM Workshop accepted**
 
-  *We define and evaluate the honesty of LLM unlearning, which is a important yet neglected problem in LLM unlearning*
-- [**Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning**](https://arxiv.org/pdf/2507.16302), second contribution, co-authored with Boheng Li
-  **NeurIPS 2025 poster**
+- [**Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning**](https://arxiv.org/pdf/2507.16302)
+  second contribution, co-authored with Boheng Li, **NeurIPS 2025 poster**
 
-  *We develop ResAligh, an effiecnt and effective algorithm to erase concepts from T2I diffusion models, making them resilient to the downstream fintunings*
-- [**MHALO: Evaluating MLLMs as Fine-grained Hallucination Detectors**](https://openreview.net/pdf?id=t1W8txNm7K), Equal first contribution, co-authored with Yishuo Cai
-  **ACL 2025 Findings**
+- [**MHALO: Evaluating MLLMs as Fine-grained Hallucination Detectors**](https://openreview.net/pdf?id=t1W8txNm7K)
+  Equal first contribution, co-authored with Yishuo Cai, **ACL 2025 Findings**
+
+- [**Course-Correction: Safety Alignment Using Synthetic Preferences**](https://arxiv.org/pdf/2407.16637)
+  Fourth-author, **EMNLP 2024**  
   
-  *We developed a fine-grained hallucination benchmark for a multimodal large language model as a judge. We also tried some methods to improve their ability as a judger and get some insights*
-- [**Course-Correction: Safety Alignment Using Synthetic Preferences**](https://arxiv.org/pdf/2407.16637), co-authored with Rongwu xu,Yishuo Cai 
-  **EMNLP 2024**  
-  Focused on AI safety and model alignment, this work introduces course-correction methods and the C-Syn benchmark. I contributed primarily to experiments, especially dataset creation and model testing.
 
 Education & Experience 🎓
 ======
