@@ -15,16 +15,16 @@ I used to work as a research assistant at the Nanyang Technological University, 
 
 Publications & Research 🧠
 ======
-- [**Unlearners Can Lie: Evaluating and improving “Honesty” in LLM Unlearning**](https://openreview.net/pdf?id=fhrOSzieCS)
-  First contribution,**ACL 2026 on submission & NeurIPS 2025 Lock-LLM Workshop accepted**
+- [**Unlearners Can Lie: Evaluating and improving "Honesty" in LLM Unlearning**](https://openreview.net/pdf?id=fhrOSzieCS)  
+  First contribution, **ACL 2026 on submission & NeurIPS 2025 Lock-LLM Workshop accepted**
 
-- [**Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning**](https://arxiv.org/pdf/2507.16302)
-  second contribution, co-authored with Boheng Li, **NeurIPS 2025 poster**
+- [**Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning**](https://arxiv.org/pdf/2507.16302)  
+  Second contribution, co-authored with Boheng Li, **NeurIPS 2025 poster**
 
-- [**MHALO: Evaluating MLLMs as Fine-grained Hallucination Detectors**](https://openreview.net/pdf?id=t1W8txNm7K)
+- [**MHALO: Evaluating MLLMs as Fine-grained Hallucination Detectors**](https://openreview.net/pdf?id=t1W8txNm7K)  
   Equal first contribution, co-authored with Yishuo Cai, **ACL 2025 Findings**
 
-- [**Course-Correction: Safety Alignment Using Synthetic Preferences**](https://arxiv.org/pdf/2407.16637)
+- [**Course-Correction: Safety Alignment Using Synthetic Preferences**](https://arxiv.org/pdf/2407.16637)  
   Fourth-author, **EMNLP 2024**  
   
 
