@@ -7,22 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-👋 Welcome to my personal academic website! I am Renjie Gu, from Jiangyin City, Jiangsu Province, currently an undergraduate student majoring in Computer Science and Technology at Central South University, passionate about the application of computer technology! What's more, I'm interested in **trustworthy AI,T2I and LLM/MLLM**.I am currently working as a research assistant at the Nanyang Technological University, Singapore, collaborating with [Prof. Yiming Li](https://liyiming.tech/) and [Boheng Li](https://antigonerandy.github.io/). 🔥
+- 👋 Welcome to my personal academic website! I am Renjie Gu, from Jiangyin, Jiangsu Province, currently an undergraduate student majoring at Central South University, passionate about AI! 
+I used to work as a research assistant at the Nanyang Technological University, Singapore and study LLM unlearning as a summer intern at Michigan State University.
 
-Education & Experience 🎓
-======
-**Central South University, Changsha, China**  
-*Undergraduate student in Computer Science and Technology*  
-*GPA: 90.87/100 (3.92/4.0)*  
-*09/2022 - Present*
+- Research Interests: Agentic LLM, Agent Training, LLM Reasoning, and LLM Post-training.
 
-**Nanyang Technological University, Singapore**
-*Research Assistant,12/2024 - Present*
-My time here is spent studing building resilient unlearning for diffusion models.I'm also interested in other AI safety topics and general mllm and diffusion model for image generation.
-
-**SYNC (Beijing, China)(AI Startup)**  
-*LLM and iOS Development Intern,07/2024 - 09/2024*  
-I focus on optimizing specific chat scenarios using LLM agents. My work also included enhancing the humor and empathy of LLMs by fine-tuning models.
 
 Publications & Research 🧠
 ======
@@ -39,7 +28,28 @@ Publications & Research 🧠
   **EMNLP 2024**  
   This research provides in-depth insights into AI safety and model alignment, highlighting the concept of course-correction and proposing the C-Syn benchmark and methods for course-correction LLM fine-tuning. I was mainly responsible for the experimental part of the team, including dataset synthesis and model performance testing.
 
-- During my internship, I conducted in-depth research on the performance of AI agents and LLMs in practical applications, especially on how to enhance the empathy and humor of LLMs and optimize model performance through synthetic data generation.
+Education & Experience 🎓
+======
+**Central South University, Changsha, China**  
+*Undergraduate student in Computer Science and Technology*  
+*GPA: 90.87/100 (3.92/4.0)*  
+*09/2022 - Present*
+
+**Fudan University, Shanghai, China**  
+*Incoming master*  
+
+**Michigan state University, East Lansing**
+*Research Intern, 5/2025 - 10/2025*
+My time here is spent studing the honesty of LLM unlearning under the guidance of [Prof. Sijia Liu](https://lsjxjtu.github.io/) and [Yihua Zhang](https://www.yihua-zhang.com/).
+
+**Nanyang Technological University, Singapore**
+*Research Assistant,12/2024 - 5/2025*
+My time here is spent studing building resilient unlearning for diffusion models under the guidance of [Dr. Yiming Li](https://liyiming.tech/) and [Boheng Li](https://antigonerandy.github.io/).
+
+**SYNC (Beijing, China)(AI Startup)**  
+*LLM and iOS Development Intern,07/2024 - 09/2024*  
+I focus on optimizing specific chat scenarios using LLM agents. My work also included enhancing the humor and empathy of LLMs by fine-tuning models.
+
 
 Awards & Honors 🏆
 ======
