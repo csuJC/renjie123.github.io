@@ -7,25 +7,35 @@ redirect_from:
   - /about.html
 ---
 
-- 👋 Welcome to my personal academic website! I am Renjie Gu, from Jiangyin, Jiangsu Province, currently an undergraduate student majoring at Central South University, passionate about AI! 
-I used to work as a research assistant at the Nanyang Technological University, Singapore and study LLM unlearning as a summer intern at Michigan State University.
+- 👋 Welcome to my personal academic website! I am Renjie Gu from Jiangyin, Jiangsu Province, China. I will join Fudan University as a master's student in Fall 2026, advised by [Prof. Yixin Cao](https://taominer.github.io/). I have worked as a research intern at Michigan State University with [Prof. Sijia Liu](https://lsjxjtu.github.io/) and at Harvard Medical School with [Prof. Mengyu Wang](https://wang.hms.harvard.edu/team/dr-wang/). I am currently a research intern at Alipay (Alibaba).
 
-- Research Interests: Agentic LLM, Agent Training, LLM Reasoning, and LLM Post-training.
+- Research Interests: Unified Multimodal LLMs, World Models, MLLM Reasoning, and LLM Agents.
 
 
 Publications & Research 🧠
 ======
-- [**Unlearners Can Lie: Evaluating and improving "Honesty" in LLM Unlearning**](https://openreview.net/pdf?id=fhrOSzieCS)  
-  First contribution, **ACL 2026 on submission & NeurIPS 2025 Lock-LLM Workshop accepted**
-
+- [**Unlearners Can Lie: Evaluating and improving "Honesty" in LLM Unlearning**](https://arxiv.org/abs/2605.08765)  
+  First contribution, **ACL 2026 Main & NeurIPS 2025 Lock-LLM Workshop accepted**
 - [**Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning**](https://arxiv.org/pdf/2507.16302)  
   Second contribution, co-authored with Boheng Li, **NeurIPS 2025 poster**
 
 - [**MHALO: Evaluating MLLMs as Fine-grained Hallucination Detectors**](https://openreview.net/pdf?id=t1W8txNm7K)  
   Equal first contribution, co-authored with Yishuo Cai, **ACL 2025 Findings**
 
-- [**Course-Correction: Safety Alignment Using Synthetic Preferences**](https://arxiv.org/pdf/2407.16637)  
+- [**Course-Correction: SafetyAlignment Using Synthetic Preferences**](https://arxiv.org/pdf/2407.16637)  
   Fourth-author, **EMNLP 2024**  
+
+- **Bridging the Detection-to-Abstention Gap in Reasoning Models under Insufficient Information**  
+  Renjie Gu, Jiaxu Li, Yihao Wang, Yun Yue, Hansong Xiao, Yefei Chen, Yuan Wang, Chunxiao Guo, Peng Wei, Jinjie Gu, Yixin Cao  
+  **NeurIPS 2026 Conference Submission**
+
+- **GeoWorld-VLM: Geometry from World Models for Vision-Language Models**  
+  Renjie Gu, Kaichen Zhou, Yan Luo, Mengyu Wang  
+  **NeurIPS 2026 Conference Submission**
+
+- **MedMemoryBench: Benchmarking Agent Memory in Personalized Healthcare**  
+  Yihao Wang, Haoran Xu, Renjie Gu, Yixuan Ye, Xinyi Chen, Xinyu Mu, Yuan Gao, Chunxiao Guo, Peng Wei, Jinjie Gu, Huan Li, Ke Chen, Lidan Shou  
+  **NeurIPS 2026 Conference Submission**
   
 
 Education & Experience 🎓
@@ -36,15 +46,20 @@ Education & Experience 🎓
 *09/2022 - Present*
 
 **Fudan University, Shanghai, China**  
-*Incoming master*  
+*Incoming M.S. Student, Fall 2026*  
+*Advisor: [Prof. Yixin Cao](https://taominer.github.io/)*  
 
-**Michigan state University, East Lansing**
-*Research Intern, 5/2025 - 10/2025*
-My time here is spent studing the honesty of LLM unlearning under the guidance of [Prof. Sijia Liu](https://lsjxjtu.github.io/) and [Yihua Zhang](https://www.yihua-zhang.com/).
+**Alipay, Alibaba, China**  
+*Research Intern, Present*  
+Working on large-model related research and applications.
 
-**Nanyang Technological University, Singapore**
-*Research Assistant,12/2024 - 5/2025*
-My time here is spent studing building resilient unlearning for diffusion models under the guidance of [Dr. Yiming Li](https://liyiming.tech/) and [Boheng Li](https://antigonerandy.github.io/).
+**Harvard Medical School, Boston, USA**  
+*Research Intern*  
+Worked with [Prof. Mengyu Wang](https://wang.hms.harvard.edu/team/dr-wang/) on multimodal and medical AI topics.
+
+**Michigan State University, East Lansing, USA**  
+*Research Intern, 05/2025 - 10/2025*  
+Worked on honesty evaluation and improvement for LLM unlearning with [Prof. Sijia Liu](https://lsjxjtu.github.io/).
 
 **SYNC (Beijing, China)(AI Startup)**  
 *LLM and iOS Development Intern,07/2024 - 09/2024*  
