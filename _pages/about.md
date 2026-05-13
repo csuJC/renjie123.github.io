@@ -38,17 +38,19 @@ Publications & Research 🧠
   **NeurIPS 2026 Conference Submission**
   
 
-Education & Experience 🎓
+Education 🎓
 ======
+**Fudan University, Shanghai, China**  
+*Incoming M.S. Student, Fall 2026*  
+*Advisor: [Prof. Yixin Cao](https://taominer.github.io/)*  
+
 **Central South University, Changsha, China**  
 *Undergraduate student in Computer Science and Technology*  
 *GPA: 90.87/100 (3.92/4.0)*  
 *09/2022 - Present*
 
-**Fudan University, Shanghai, China**  
-*Incoming M.S. Student, Fall 2026*  
-*Advisor: [Prof. Yixin Cao](https://taominer.github.io/)*  
-
+Internship
+======
 **Alipay, Alibaba, China**  
 *Research Intern, Present*  
 Working on large-model related research and applications.
@@ -61,6 +63,10 @@ Worked with [Prof. Mengyu Wang](https://wang.hms.harvard.edu/team/dr-wang/) on m
 *Research Intern, 05/2025 - 10/2025*  
 Worked on honesty evaluation and improvement for LLM unlearning with [Prof. Sijia Liu](https://lsjxjtu.github.io/).
 
+**Nanyang Technological University, Singapore**  
+*Research Intern, 12/2024 - 05/2025*  
+Worked on resilient unlearning for diffusion models, advised by [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/) and [Dr. Yiming Li](https://liyiming.tech/).
+
 **SYNC (Beijing, China)(AI Startup)**  
 *LLM and iOS Development Intern,07/2024 - 09/2024*  
 I focus on optimizing specific chat scenarios using LLM agents. My work also included enhancing the humor and empathy of LLMs by fine-tuning models.
@@ -72,14 +78,6 @@ Awards & Honors 🏆
 - **Third Prize in the National Service Innovation Competition🥉**   
 - **Second Prize in the National College English Competition🥈**  
 - **Yangguang Excellent Student Scholarship** (awarded to top 1% of students)
-
-Selected Projects 💡
-======
-- **Job Recommendation and Skill Assessment System Based on Knowledge Graph**  
-  Responsible for researching and developing recommendation algorithms, implemented resume entity recognition and knowledge graph-based content recommendation algorithms using Python, PyTorch, and Flask, and optimized suggestions by deploying ChatGLM.
-
-- **iOS Online Chat Application**  
-  Developed a chat application using SwiftUI and Google Firebase, focusing on user-friendliness and efficient data processing.
 
 Skills 🔧
 ======
