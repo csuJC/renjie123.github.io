@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-- 👋 Welcome to my personal academic website! I am Renjie Gu from Jiangyin, Jiangsu Province, China. I will join Fudan University as a master's student in Fall 2026, advised by [Prof. Yixin Cao](https://taominer.github.io/). I have worked as a research intern at Michigan State University with [Prof. Sijia Liu](https://lsjxjtu.github.io/) and at Harvard Medical School with [Prof. Mengyu Wang](https://wang.hms.harvard.edu/team/dr-wang/). I am currently a research intern at Alipay (Alibaba).
+- 👋 Welcome to my personal academic website! I am Renjie Gu from Jiangyin, Jiangsu Province, China. I will join Fudan University as a master's student in Fall 2026, advised by [Prof. Yixin Cao](https://taominer.github.io/). I have worked as a research intern at Michigan State University with [Prof. Sijia Liu](https://lsjxjtu.github.io/) and at Harvard AI and Robotics Lab with [Prof. Mengyu Wang](https://wang.hms.harvard.edu/team/dr-wang/). I am currently a research intern at Alipay (Alibaba).
 
 - Research Interests: Unified Multimodal LLMs, World Models, MLLM Reasoning, and LLM Agents.
 
