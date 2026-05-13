@@ -14,6 +14,15 @@ redirect_from:
 
 Publications & Research 🧠
 ======
+- **Bridging the Detection-to-Abstention Gap in Reasoning Models under Insufficient Information**  
+  First author, **NeurIPS 2026 Conference Submission**
+
+- **GeoWorld-VLM: Geometry from World Models for Vision-Language Models**  
+  First author, **NeurIPS 2026 Conference Submission**
+
+- **MedMemoryBench: Benchmarking Agent Memory in Personalized Healthcare**  
+  Third author, **NeurIPS 2026 Conference Submission**
+
 - [**Unlearners Can Lie: Evaluating and improving "Honesty" in LLM Unlearning**](https://arxiv.org/abs/2605.08765)  
   First contribution, **ACL 2026 Main & NeurIPS 2025 Lock-LLM Workshop accepted**
 - [**Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning**](https://arxiv.org/pdf/2507.16302)  
@@ -24,18 +33,6 @@ Publications & Research 🧠
 
 - [**Course-Correction: SafetyAlignment Using Synthetic Preferences**](https://arxiv.org/pdf/2407.16637)  
   Fourth-author, **EMNLP 2024**  
-
-- **Bridging the Detection-to-Abstention Gap in Reasoning Models under Insufficient Information**  
-  Renjie Gu, Jiaxu Li, Yihao Wang, Yun Yue, Hansong Xiao, Yefei Chen, Yuan Wang, Chunxiao Guo, Peng Wei, Jinjie Gu, Yixin Cao  
-  **NeurIPS 2026 Conference Submission**
-
-- **GeoWorld-VLM: Geometry from World Models for Vision-Language Models**  
-  Renjie Gu, Kaichen Zhou, Yan Luo, Mengyu Wang  
-  **NeurIPS 2026 Conference Submission**
-
-- **MedMemoryBench: Benchmarking Agent Memory in Personalized Healthcare**  
-  Yihao Wang, Haoran Xu, Renjie Gu, Yixuan Ye, Xinyi Chen, Xinyu Mu, Yuan Gao, Chunxiao Guo, Peng Wei, Jinjie Gu, Huan Li, Ke Chen, Lidan Shou  
-  **NeurIPS 2026 Conference Submission**
   
 
 Education 🎓
@@ -52,11 +49,11 @@ Education 🎓
 Internship
 ======
 **Alipay, Alibaba, China**  
-*Research Intern, Present*  
+*Research Intern, 2026.1 - Present*  
 Working on large-model related research and applications.
 
-**Harvard Medical School, Boston, USA**  
-*Research Intern*  
+**Harvard AI and Robotics Lab, Boston, USA**  
+*Research Intern, 2025.5 - 2025.12*  
 Worked with [Prof. Mengyu Wang](https://wang.hms.harvard.edu/team/dr-wang/) on multimodal and medical AI topics.
 
 **Michigan State University, East Lansing, USA**  
