@@ -26,10 +26,10 @@ Publications & Research 🧠
 - [**Unlearners Can Lie: Evaluating and improving "Honesty" in LLM Unlearning**](https://arxiv.org/abs/2605.08765)  
   First contribution, **ACL 2026 Main & NeurIPS 2025 Lock-LLM Workshop accepted**
 - [**Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning**](https://arxiv.org/pdf/2507.16302)  
-  Second contribution, co-authored with Boheng Li, **NeurIPS 2025 poster**
+  Second contribution, **NeurIPS 2025 poster**
 
 - [**MHALO: Evaluating MLLMs as Fine-grained Hallucination Detectors**](https://openreview.net/pdf?id=t1W8txNm7K)  
-  Equal first contribution, co-authored with Yishuo Cai, **ACL 2025 Findings**
+  Equal first contribution, **ACL 2025 Findings**
 
 - [**Course-Correction: SafetyAlignment Using Synthetic Preferences**](https://arxiv.org/pdf/2407.16637)  
   Fourth-author, **EMNLP 2024**  
@@ -38,7 +38,7 @@ Publications & Research 🧠
 Education 🎓
 ======
 **Fudan University, Shanghai, China**  
-*Incoming M.S. Student, Fall 2026*  
+*Incoming M.S. Student, 09/2026*  
 *Advisor: [Prof. Yixin Cao](https://taominer.github.io/)*  
 
 **Central South University, Changsha, China**  
@@ -49,11 +49,11 @@ Education 🎓
 Internship
 ======
 **Alipay, Alibaba, China**  
-*Research Intern, 2026.1 - Present*  
+*Research Intern, 01/2026 - Present*  
 Working on large-model related research and applications.
 
 **Harvard AI and Robotics Lab, Boston, USA**  
-*Research Intern, 2025.5 - 2025.12*  
+*Research Intern, 05/2025 - 12/2025*  
 Worked with [Prof. Mengyu Wang](https://wang.hms.harvard.edu/team/dr-wang/) on multimodal and medical AI topics.
 
 **Michigan State University, East Lansing, USA**  
@@ -65,7 +65,7 @@ Worked on honesty evaluation and improvement for LLM unlearning with [Prof. Siji
 Worked on resilient unlearning for diffusion models, advised by [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/) and [Dr. Yiming Li](https://liyiming.tech/).
 
 **SYNC (Beijing, China)(AI Startup)**  
-*LLM and iOS Development Intern,07/2024 - 09/2024*  
+*LLM and iOS Development Intern, 07/2024 - 09/2024*  
 I focus on optimizing specific chat scenarios using LLM agents. My work also included enhancing the humor and empathy of LLMs by fine-tuning models.
 
 
