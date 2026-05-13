@@ -20,7 +20,7 @@ Publications & Research 🧠
 - **GeoWorld-VLM: Geometry from World Models for Vision-Language Models**  
   First author, **NeurIPS 2026 Conference Submission**
 
-- **MedMemoryBench: Benchmarking Agent Memory in Personalized Healthcare**  
+- [**MedMemoryBench: Benchmarking Agent Memory in Personalized Healthcare**](https://arxiv.org/abs/2605.11814)  
   Third author, **NeurIPS 2026 Conference Submission**
 
 - [**Unlearners Can Lie: Evaluating and improving "Honesty" in LLM Unlearning**](https://arxiv.org/abs/2605.08765)  
