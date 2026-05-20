@@ -17,7 +17,7 @@ Publications & Research 🧠
 - **Bridging the Detection-to-Abstention Gap in Reasoning Models under Insufficient Information**  
   First author, **NeurIPS 2026 Conference Submission**
 
-- **GeoWorld-VLM: Geometry from World Models for Vision-Language Models**  
+- [**GeoWorld-VLM: Geometry from World Models for Vision-Language Models**](https://arxiv.org/abs/2605.16713)  
   First author, **NeurIPS 2026 Conference Submission**
 
 - [**MedMemoryBench: Benchmarking Agent Memory in Personalized Healthcare**](https://arxiv.org/abs/2605.11814)  
