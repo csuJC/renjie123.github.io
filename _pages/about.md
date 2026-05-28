@@ -14,11 +14,11 @@ redirect_from:
 
 Publications & Research 🧠
 ======
-- **Bridging the Detection-to-Abstention Gap in Reasoning Models under Insufficient Information**  
+- [**Bridging the Detection-to-Abstention Gap in Reasoning Models under Insufficient Information**](http://arxiv.org/abs/2605.28070)  
   First author, **NeurIPS 2026 Conference Submission**
 
 - [**GeoWorld-VLM: Geometry from World Models for Vision-Language Models**](https://arxiv.org/abs/2605.16713)  
-  First author, **NeurIPS 2026 Conference Submission**
+  First author, **NeurIPS 2026 Conference Submission & FMEA @ CVPR 2026 Poster**
 
 - [**MedMemoryBench: Benchmarking Agent Memory in Personalized Healthcare**](https://arxiv.org/abs/2605.11814)  
   Third author, **NeurIPS 2026 Conference Submission**
