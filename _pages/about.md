@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-- 👋 Welcome to my personal academic website! I am Renjie Gu from Jiangyin, Jiangsu Province, China. I will join Fudan University as a master's student in Fall 2026, advised by [Prof. Yixin Cao](https://taominer.github.io/). I have worked as a research intern at Michigan State University with [Prof. Sijia Liu](https://lsjxjtu.github.io/) and at Harvard AI and Robotics Lab with [Prof. Mengyu Wang](https://wang.hms.harvard.edu/team/dr-wang/). I am currently a research intern at Alipay (Alibaba).
+- 👋 Welcome to my personal academic website! I am Renjie Gu from Jiangyin, Jiangsu Province, China. I am currently a master's student at Fudan University, advised by [Prof. Yixin Cao](https://taominer.github.io/). I have worked as a research intern at Michigan State University with [Prof. Sijia Liu](https://lsjxjtu.github.io/), at Harvard AI and Robotics Lab with [Prof. Mengyu Wang](https://wang.hms.harvard.edu/team/dr-wang/), and at Ant Group. I am currently a research intern at TikTok Shop Foundation Model Team.
 
 - Research Interests: Unified Multimodal LLMs, World Models, MLLM Reasoning, and LLM Agents.
 
@@ -38,19 +38,23 @@ Publications & Research 🧠
 Education 🎓
 ======
 **Fudan University, Shanghai, China**  
-*Incoming M.S. Student, 09/2026*  
+*M.S. Student in Computer Science and Technology, 09/2026 - 06/2029*  
 *Advisor: [Prof. Yixin Cao](https://taominer.github.io/)*  
 
 **Central South University, Changsha, China**  
-*Undergraduate student in Computer Science and Technology*  
-*GPA: 90.87/100 (3.92/4.0)*  
-*09/2022 - Present*
+*B.S. in Computer Science and Technology*  
+*GPA: 91.27/100 (3.93/4.0)*  
+*09/2022 - 06/2026*
 
 Internship
 ======
-**Alipay, Alibaba, China**  
-*Research Intern, 01/2026 - Present*  
-Working on large-model related research and applications.
+**TikTok Shop Foundation Model Team, ByteDance, China**  
+*Research Intern, 07/2026 - Present*  
+Working on improving MLLM agents' perception and crop-tool use with OPSD and reinforcement learning using the Verl framework.
+
+**Ant Group, China**  
+*Research Intern, 12/2025 - 07/2026*  
+Worked on a judge-then-solve reasoning paradigm to improve rejection and efficiency for large reasoning models under insufficient information.
 
 **Harvard AI and Robotics Lab, Boston, USA**  
 *Research Intern, 05/2025 - 12/2025*  
